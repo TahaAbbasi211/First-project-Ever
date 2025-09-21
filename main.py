@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 from telebot.types import Message, CallbackQuery
 
-API_TOKEN = "8241999443:AAHEM9NBii0UpifWahsVX-qoJGYYcNL9MiA"  # ← replace with a fresh token
+API_TOKEN = "8241999443:AAGPnd_ETBcb31HqJ6HmnJ4HvUqFgApT9NA"  # ← replace with a fresh token
 SUPPORT_USERNAME = "CallMeTaha"     # بدون @
 ADMIN_IDS = {5585660160}            # عددی
 CARD_NUMBER = "62198961966525049"
